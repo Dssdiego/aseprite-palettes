@@ -1,14 +1,15 @@
 {
   "name": "lospec-pallettes",
   "displayName": "Lospec Palletes",
-  "version": "0.1",
+  "description": "Palettes from Lospec Website",
+  "version": "1.0",
   "author": "Diego S. Seabra",
   "publisher": "lospec",
   "categories": [
-    "Pallettes"
+    "Palettes"
   ],
   "contributes": {
-    "pallettes": [
+    "palettes": [
       { "id": "Gato Roboto (Bark)",      "path": "./gato-roboto-bark.gpl" },
       { "id": "Gato Roboto (Goop)",      "path": "./gato-roboto-goop.gpl" },
       { "id": "Gato Roboto (Gris)",      "path": "./gato-roboto-gris.gpl" },

@@ -1,0 +1,1 @@
+# lospec-aseprite-pallettes

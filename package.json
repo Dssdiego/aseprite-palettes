@@ -17,7 +17,16 @@
       { "id": "Gato Roboto (Soft)",      "path": "./gato-roboto-soft.gpl" },
       { "id": "Gato Roboto (Starboard)", "path": "./gato-roboto-starboard.gpl" },
       { "id": "Obra Dinn (IBM 8503)",    "path": "./obra-dinn-ibm-8503.gpl" },
-      { "id": "Obra Dinn (Machintosh)",  "path": "./obra-dinn-machintosh.gpl" }
+      { "id": "Obra Dinn (Machintosh)",  "path": "./obra-dinn-machintosh.gpl" },
+      { "id": "Gameboy (Andrade)",       "path": "./gameboy-andrade.gpl" },
+      { "id": "Gameboy (Ice Cream)",     "path": "./gameboy-ice-cream.gpl" },
+      { "id": "Gameboy (Mist)",          "path": "./gameboy-mist.gpl" },
+      { "id": "Gameboy (Rustic)",        "path": "./gameboy-rustic.gpl" },
+      { "id": "Gameboy (Kirokaze)",      "path": "./gameboy-kirokaze.gpl" },
+      { "id": "Gameboy (Nostalgia)",     "path": "./gameboy-nostalgia.gpl" },
+      { "id": "Gameboy (Dirtyboy)",      "path": "./gameboy-dirtyboy.gpl" },
+      { "id": "Ayy4",                    "path": "./ayy4.gpl" },
+      { "id": "Blueberry Ice Cream",     "path": "./blueberry-ice-cream.gpl" }
     ]
   }
 }

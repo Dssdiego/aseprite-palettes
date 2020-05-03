@@ -1,4 +1,4 @@
-# Lospec Aseprite Palettes
+# Aseprite Palettes
 
 ## How to Use
 

@@ -26,7 +26,8 @@
       { "id": "Gameboy (Nostalgia)",     "path": "./gameboy-nostalgia.gpl" },
       { "id": "Gameboy (Dirtyboy)",      "path": "./gameboy-dirtyboy.gpl" },
       { "id": "Ayy4",                    "path": "./ayy4.gpl" },
-      { "id": "Blueberry Ice Cream",     "path": "./blueberry-ice-cream.gpl" }
+      { "id": "Blueberry Ice Cream",     "path": "./blueberry-ice-cream.gpl" },
+      { "id": "Psychedelic (1920s)",     "path": "./psychedelic-1920.gpl" }
     ]
   }
 }

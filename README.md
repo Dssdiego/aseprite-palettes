@@ -2,6 +2,6 @@
 
 ## How to Use
 
-Clone this repo in the **extensions** folder of your aseprite installation and restart Aseprite
+Clone this repo in the **extensions/your-custom-folder** folder of your aseprite installation and restart Aseprite
 
 Enjoy!
